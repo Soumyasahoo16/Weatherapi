@@ -1,0 +1,10 @@
+C:\Users\SoumyaPC\source\repos\Exam\bin\Debug\Exam.exe.config
+C:\Users\SoumyaPC\source\repos\Exam\bin\Debug\Exam.exe
+C:\Users\SoumyaPC\source\repos\Exam\bin\Debug\Exam.pdb
+C:\Users\SoumyaPC\source\repos\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\SoumyaPC\source\repos\Exam\obj\Debug\Exam.exe
+C:\Users\SoumyaPC\source\repos\Exam\obj\Debug\Exam.pdb
+C:\Users\SoumyaPC\source\repos\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+C:\Users\SoumyaPC\source\repos\Exam\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SoumyaPC\source\repos\Exam\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SoumyaPC\source\repos\Exam\obj\Debug\Exam.csproj.CopyComplete
